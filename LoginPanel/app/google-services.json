@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1063741798573",
+    "firebase_url": "https://careurhealth-2a6c2.firebaseio.com",
+    "project_id": "careurhealth-2a6c2",
+    "storage_bucket": "careurhealth-2a6c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063741798573:android:344a872b86f15c51",
+        "android_client_info": {
+          "package_name": "in.careurhealth.careurhealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063741798573-9ra24aag5bsscs617rlb7nnv9uhcmdi1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.careurhealth.careurhealth",
+            "certificate_hash": "E9CB20F0DFD4D27C361F560ABDEC207DEFB887E2"
+          }
+        },
+        {
+          "client_id": "1063741798573-edqi6o9k194tougcqotpic44469vosr5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6c5F_ubjgkQWJiblGvah9C7IGQYnutcY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063741798573-edqi6o9k194tougcqotpic44469vosr5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
